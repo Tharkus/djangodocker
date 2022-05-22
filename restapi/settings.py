@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     # Meus Módulos Criados (apps)
     'usuarios',
+    'academia',
 ]
 
 MIDDLEWARE = [
